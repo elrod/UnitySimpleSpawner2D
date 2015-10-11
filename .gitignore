@@ -1,0 +1,154 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+/Library/
+/Builds/
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Assets/Prefabs/Maps.meta
+Assets/Scripts/MainScene.meta
+Assets/_Scenes/MainScene.meta
+Assets/Prefabs/Bases.meta
+Assets/Audio/Production Queue.meta
+Assets/Audio/Start.meta
+Assets/Audio/Waiting For Players.meta
+Assets/Audio/Victory.meta
+Assets/Audio/Unit Selection.meta
+Assets/Audio/Not Enough Resources.meta
+Assets/Audio.meta
+Assets/Audio/Conquest.meta
+Assets/Audio/Creation.meta
+Assets/Audio/Defeat.meta
+Assets/Audio/Movement.meta
+Assets/Scripts/Audio.meta
+Assets/Audio/Buttons/Unlock.meta
+Assets/Audio/Banner.meta
+Assets/Audio/Buttons.meta
+Assets/Audio/Buttons/Button.meta
+Assets/Audio/Buttons/Confirm.meta
+Assets/Audio/Buttons/Home.meta
+Assets/Audio/Buttons/Lock.meta
+Assets/Audio/Buttons/Main Menu.meta
+Assets/Audio/Death.meta
+Assets/Audio/Player Kill.meta
+Assets/Audio/Attack.meta
+Assets/Audio/Hold Position/Break Position.meta
+Assets/Audio/Hold Position/Hold Position.meta
+Assets/Audio/Hold Position.meta
+Assets/Audio/Forces Under Attack.meta
+Assets/Audio/Base Under Attack.meta
+Assets/Game_music.meta
+Assets/Audio/Projectile.meta
+Assets/Game_music/With love from Vertex Studio (10).mp3
+Assets/Game_music/With love from Vertex Studio (10).mp3.meta
+Assets/Game_music/With love from Vertex Studio (11).mp3
+Assets/Game_music/With love from Vertex Studio (11).mp3.meta
+Assets/Game_music/With love from Vertex Studio (12).mp3
+Assets/Game_music/With love from Vertex Studio (12).mp3.meta
+Assets/Game_music/With love from Vertex Studio (13).mp3
+Assets/Game_music/With love from Vertex Studio (13).mp3.meta
+Assets/Game_music/With love from Vertex Studio (14).mp3
+Assets/Game_music/With love from Vertex Studio (14).mp3.meta
+Assets/Game_music/With love from Vertex Studio (15).mp3
+Assets/Game_music/With love from Vertex Studio (15).mp3.meta
+Assets/Game_music/With love from Vertex Studio (16).mp3
+Assets/Game_music/With love from Vertex Studio (16).mp3.meta
+Assets/Game_music/With love from Vertex Studio (17).mp3
+Assets/Game_music/With love from Vertex Studio (17).mp3.meta
+Assets/Game_music/With love from Vertex Studio (18).mp3
+Assets/Game_music/With love from Vertex Studio (18).mp3.meta
+Assets/Game_music/With love from Vertex Studio (19).mp3
+Assets/Game_music/With love from Vertex Studio (19).mp3.meta
+Assets/Game_music/With love from Vertex Studio (20).mp3
+Assets/Game_music/With love from Vertex Studio (20).mp3.meta
+Assets/Game_music/With love from Vertex Studio (21).mp3
+Assets/Game_music/With love from Vertex Studio (21).mp3.meta
+Assets/Game_music/With love from Vertex Studio (22).mp3
+Assets/Game_music/With love from Vertex Studio (22).mp3.meta
+Assets/Game_music/With love from Vertex Studio (23).mp3
+Assets/Game_music/With love from Vertex Studio (23).mp3.meta
+Assets/Game_music/With love from Vertex Studio (24).mp3
+Assets/Game_music/With love from Vertex Studio (24).mp3.meta
+Assets/Game_music/With love from Vertex Studio (25).mp3
+Assets/Game_music/With love from Vertex Studio (25).mp3.meta
+Assets/Game_music/With love from Vertex Studio (26).mp3
+Assets/Game_music/With love from Vertex Studio (26).mp3.meta
+Assets/Game_music/With love from Vertex Studio (27).mp3
+Assets/Game_music/With love from Vertex Studio (27).mp3.meta
+Assets/Game_music/With love from Vertex Studio (28).mp3
+Assets/Game_music/With love from Vertex Studio (28).mp3.meta
+Assets/Game_music/With love from Vertex Studio (29).mp3
+Assets/Game_music/With love from Vertex Studio (29).mp3.meta
+Assets/Game_music/With love from Vertex Studio (3).mp3
+Assets/Game_music/With love from Vertex Studio (3).mp3.meta
+Assets/Game_music/With love from Vertex Studio (30).mp3
+Assets/Game_music/With love from Vertex Studio (30).mp3.meta
+Assets/Game_music/With love from Vertex Studio (31).mp3
+Assets/Game_music/With love from Vertex Studio (31).mp3.meta
+Assets/Game_music/With love from Vertex Studio (32).mp3
+Assets/Game_music/With love from Vertex Studio (32).mp3.meta
+Assets/Game_music/With love from Vertex Studio (33).mp3
+Assets/Game_music/With love from Vertex Studio (33).mp3.meta
+Assets/Game_music/With love from Vertex Studio (34).mp3
+Assets/Game_music/With love from Vertex Studio (34).mp3.meta
+Assets/Game_music/With love from Vertex Studio (35).mp3
+Assets/Game_music/With love from Vertex Studio (35).mp3.meta
+Assets/Game_music/With love from Vertex Studio (36).mp3
+Assets/Game_music/With love from Vertex Studio (36).mp3.meta
+Assets/Game_music/With love from Vertex Studio (37).mp3
+Assets/Game_music/With love from Vertex Studio (37).mp3.meta
+Assets/Game_music/With love from Vertex Studio (38).mp3
+Assets/Game_music/With love from Vertex Studio (39).mp3
+Assets/Game_music/With love from Vertex Studio (38).mp3.meta
+Assets/Game_music/With love from Vertex Studio (39).mp3.meta
+Assets/Game_music/With love from Vertex Studio (4).mp3
+Assets/Game_music/With love from Vertex Studio (4).mp3.meta
+Assets/Game_music/With love from Vertex Studio (40).mp3
+Assets/Game_music/With love from Vertex Studio (40).mp3.meta
+Assets/Game_music/With love from Vertex Studio (41).mp3
+Assets/Game_music/With love from Vertex Studio (41).mp3.meta
+Assets/Game_music/With love from Vertex Studio (5).mp3
+Assets/Game_music/With love from Vertex Studio (5).mp3.meta
+Assets/Game_music/With love from Vertex Studio (6).mp3.meta
+Assets/Game_music/With love from Vertex Studio (7).mp3
+Assets/Game_music/With love from Vertex Studio (7).mp3.meta
+Assets/Game_music/With love from Vertex Studio (8).mp3
+Assets/Game_music/With love from Vertex Studio (8).mp3.meta
+Assets/Game_music/With love from Vertex Studio (9).mp3
+Assets/Game_music/With love from Vertex Studio (9).mp3.meta
+Assets/Resources/Portrait.meta
+Assets/SkyBox Volume 2/DeepsSpaceRedWithPlanet.meta
+Assets/SkyBox Volume 2/DeepSpaceGreenWithPlanet.meta
+Assets/SkyBox Volume 2/DeepSpaceGreen.meta
+Assets/SkyBox Volume 2/Stars01.meta
+Assets/SkyBox Volume 2/DeepSpaceBlueWithPlanet.meta
+Assets/SkyBox Volume 2.meta
+Assets/SkyBox Volume 2/DeepSpaceBlue.meta
+Assets/Audio/Suggestions.meta
